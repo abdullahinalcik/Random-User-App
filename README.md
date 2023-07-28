@@ -1,1 +1,1 @@
-random-user-abdullah.netlify.app
+https://random-user-abdullah.netlify.app/
